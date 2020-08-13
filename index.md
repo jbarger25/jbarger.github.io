@@ -1,4 +1,54 @@
-## Welcome to GitHub Pages
+## Game Development Portfolio
+
+On this page you will find some of the projects I have made and been a part of during my brief, but growing journey into game development.  
+
+### D&D Character Creator
+
+### Attack on Techno City
+
+### Terrain Generation Tool
+
+### Fish Watching Simulator
+
+### Puzzle Box
+
+### Scrap Dash
+
+## Aztec Game Lab
+
+### Antediluvian Anarchy: Medieval Mashup
+
+### CyberShell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/jbarger25/jbarger.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
