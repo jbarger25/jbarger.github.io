@@ -3,22 +3,31 @@
 On this page you will find some of the projects I have made and been a part of during my brief, but growing journey into game development.  
 
 ### D&D Character Creator
+  A simple ui character creation system based around the basics of D&D 5e character creation.
 
 ### Attack on Techno City
+  A 2d sidescrolling platformer/shooter set in a futuristic city.
 
 ### Terrain Generation Tool
-
+  An collection of scripts for an editor tool in Unity for making more dynamic and realistic terrain using various kinds of noise.
+  
 ### Fish Watching Simulator
+  A demonstration of flocking ai with multiple behavious skinned as a simulator for watching fish swim in a tank.
 
 ### Puzzle Box
+  A group project turned game jam centered around the idea of allowing the player to physically manipulate a cube with puzzles/mazes to solve them.
 
 ### Scrap Dash
-
+  Another group project turned game jam where players compete to collect scrap and survive in order upgrade gear and stats.
+  
 ## Aztec Game Lab
-
+  While studying computer science at San Diego State I had the pleasure of being a part of the university's game development club for my final two semesters. The following two     games were a memorable product of my first experience working in a larger group of people.
+  
 ### Antediluvian Anarchy: Medieval Mashup
+  A collection of minigames similar to WarioWare.
 
 ### CyberShell
+  A first person shooter roguelike with procedural levels and weapons.
 
 
 
@@ -36,8 +45,7 @@ On this page you will find some of the projects I have made and been a part of d
 
 
 
-
-
+ 
 
 
 
